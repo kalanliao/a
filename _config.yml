@@ -2,7 +2,7 @@
 title: KalanBlog
 owner: "Kalan"
 url: "https://kalanliao.github.io"
-baseurl: "/"
+baseurl: "/a2FsYW5saWFv"
 permalink: /:title/
 description: ""
 markdown: kramdown
